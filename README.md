@@ -2,7 +2,7 @@ Centrale-Intertielle
 ====================
 
 PPE réalisé en Terminale S Sciences de l'ingénier au [Lycée Nicolas Appert](http://appert.e-lyco.fr/) sur l'année 2012-2013.
-Nous avons également participé aux (Olympiades de Sciences de l'Ingénieur)[http://www.olympiadessi.fr/] régionales et nationnales.
+Nous avons également participé aux [Olympiades de Sciences de l'Ingénieur](http://www.olympiadessi.fr/) régionales et nationnales.
 Nous metons a disposition nos programmes.
 
 Contexte
@@ -17,4 +17,4 @@ Equipe
 ----------
 * Martin Bonnier
 * Clément Chevrier
-* (Guillaume Clochard)[http://wuips.com/guillaume)
+* [Guillaume Clochard](http://wuips.com/guillaume)
