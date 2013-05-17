@@ -6,7 +6,7 @@ Nous avons également participé aux [Olympiades de Sciences de l'Ingénieur](ht
 
 Nous mettons ici à disposition nos programmes. N'hésitez pas à me contacter pour plus d'information.
 
-*Feel free to contact me if you want information in english.*
+*Feel free to contact me if you want some information in english.*
 
 Contexte
 -----------
