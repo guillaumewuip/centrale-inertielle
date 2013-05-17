@@ -5,7 +5,7 @@ Utilisation de la Wii comme capteur à l'aide du logiciel [OSCulator](http://www
 
 Utiisation
 ----------
-1- Brancher la carte Arduino commandant les deux servos-moteurs en USB. Lancer le programme sur la carte.
-2- Connecter la Wii en bluetooth à OSCulator.
-4- Lancer le programme Processing wii_servo.pde.
+1. Brancher la carte Arduino commandant les deux servos-moteurs en USB. Lancer le programme sur la carte.
+2. Connecter la Wii en bluetooth à OSCulator.
+4. Lancer le programme Processing wii_servo.pde.
 
