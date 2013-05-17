@@ -11,13 +11,23 @@ Utilisation
 Branchement du capteur MP6050
 ------------------------------
 *https://www.sparkfun.com/products/11028#comment-50b3c165ce395f484d000000*
+
 VDD - Arduino 3.3v
+
 GND - Arduino GND
+
 INT - Arduino digital pin 2
+
 FSYNC - leave unconnected
+
 SCL - Arduino SCL (dedicated pin or Analog 5)
+
 SDA - Arduino SDA (dedicated pin or Analog 4)
+
 VIO - Arduino 3.3v
+
 CLK - leave unconnected
+
 ASCL - leave unconnected
+
 ASDA - leave unconnected
