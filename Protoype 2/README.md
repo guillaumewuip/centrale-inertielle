@@ -1,6 +1,6 @@
 Prototype 2
 ===========
-Utilisation d'un capteur IMU MP6050 connecté en I2C sur la carte Arduino. L'ordinateur ne sert plus que d'affichage des données en debug
+Utilisation d'un capteur IMU [MP6050](https://www.sparkfun.com/products/11028) connecté en I2C sur la carte Arduino. L'ordinateur ne sert plus que d'affichage des données en debug
 
 Utilisation
 ------------
