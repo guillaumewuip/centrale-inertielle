@@ -20,5 +20,5 @@ Deux prototypes ont été réalisés :
 Equipe
 ----------
 * Martin Bonnier
-* Clément Chevrier
+* [Clément Chevrier](http://wuips.com/martinbonnier/)
 * [Guillaume Clochard](http://wuips.com/guillaume)
