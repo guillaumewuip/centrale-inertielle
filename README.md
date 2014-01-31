@@ -1,4 +1,4 @@
-Centrale-Intertielle
+Centrale-Inertielle
 ====================
 
 PPE réalisé en Terminale S Sciences de l'ingénier au [Lycée Nicolas Appert](http://appert.e-lyco.fr/) sur l'année 2012-2013.
